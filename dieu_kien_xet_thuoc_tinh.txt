@@ -1,0 +1,6 @@
+branch: text thứ 2 lọc được từ img
+name: nếu text thứ 3 không phải TẶNG hoặc TANG, gán nội dung text là name
+normal_price: nếu text chỉ là "giá thường" => text tiếp theo là normal_price, nếu text có số, phần số là normal_price
+promo_price: nếu text có 2 kí tự đầu là số, có kí tự thứ 3 => promo_price
+scheme_promotion: nếu text thứ 3 là TẶNG hoặc TANG thì là scheme_promotion, nối từ đến khi gặp text có từ GIÁ hoặc GIA thì dừng, gán các text đã được nối từ
+       

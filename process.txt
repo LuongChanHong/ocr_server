@@ -1,0 +1,4 @@
+đã lọc được tên các img trong folder
+=> chuyển các tên img thành mảng các path img
+
+tạo dự án trên git, up code lên để ghi lại tiến độ code

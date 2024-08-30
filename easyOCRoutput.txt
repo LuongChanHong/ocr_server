@@ -1,0 +1,65 @@
+Detected text: KHUYẾN MẠI
+Detected text: PROMOTION
+
+Detected text: OLIV branch
+
+Detected text: TANG
+Detected text: 01
+Detected text: CHAI DÂU GỘl 25OML
+Detected text: Khi Mua 01
+Detected text: Chai Súa Tắm Duỡng Ẩm Mềm Mịn 65OMI
+
+Detected text: Giá KM: 170.OOOđ / chai promo_price
+Detected text: Giá Thuờng: 189-000d ehai normal_price
+
+Detected text: Hàng tặng đính kèm sản phẩm
+Detected text: 18/07/2024
+Detected text: 31/07/2024
+
+Detected text: KHUYẾN MẠI
+Detected text: PROMOTION
+
+Detected text: AXE branch
+
+Detected text: LĂN KHỬ MÙI ICE CHILL 4OML
+
+Detected text: 60.OOOđ promo_price
+
+Detected text: CHAI
+Detected text: 1
+
+Detected text: Giá thường:normal_price
+Detected text: 70.000đ
+
+Detected text: 4
+Detected text: 18/07/2024
+Detected text: 2
+Detected text: 31/07/2024
+
+Detected text: KHUYẾN MẠI
+Detected text: PROMOTION
+Detected text: OLIV
+Detected text: TANG
+Detected text: 01
+Detected text: CHAI DÂU GỘl 25OML
+Detected text: Khi Mua 01
+Detected text: Chai Súa Tắm Duỡng Ẩm Mềm Mịn 65OMI
+Detected text: Giá KM: 170.OOOđ / chai
+Detected text: Giá Thuờng: 189-000d ehai
+Detected text: Hàng tặng đính kèm sản phẩm
+Detected text: 18/07/2024
+Detected text: 31/07/2024
+
+Detected text: KHUYẾN MẠI
+Detected text: PROMOTION
+Detected text: AXE
+Detected text: LĂN KHỬ MÙI ICE CHILL 4OML
+Detected text: 60.OOOđ
+Detected text: CHAI
+Detected text: 1
+Detected text: Giá thường:
+Detected text: 70.000đ
+Detected text: 4
+Detected text: 18/07/2024
+Detected text: 2
+Detected text: 31/07/2024
